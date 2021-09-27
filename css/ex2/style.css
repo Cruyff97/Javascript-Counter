@@ -1,0 +1,47 @@
+html,
+body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  text-align: center;
+  text-align: center;
+  justify-content: center;
+  display: table-cell;
+  vertical-align: middle;
+  background-image: url('../img/ex2/hand.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-color: #11110f;
+}
+h1 {
+  margin-left: 7px;
+  color: #f4f1ee;
+  font-size: 50px;
+}
+.counter {
+  margin-left: 7px;
+  margin-bottom: 18px;
+}
+button {
+  border: none;
+  width: 30px;
+  height: 30px;
+  transition: 0.2s ease-in-out;
+}
+button:hover {
+  background-color: #bada55;
+  transform: scale(1.1);
+}
+.counter-plus,
+.counter-minus {
+  font-size: 20px;
+  align-content: center;
+  justify-content: center;
+}
