@@ -8,6 +8,7 @@ updateDisplay();
 
 counterPlusElem.addEventListener("click", () => {
   count++;
+  //test
   updateDisplay();
 });
 
