@@ -19,7 +19,7 @@ Beside, i add a functionality not requested: numbers increas/decreas when keyboa
 
 ### Links
 
-- Live Site URL: (https://Cruyff97.github.io/Javascript-counter-Start2impact/)
+- Live Site URL: (https://stoic-shockley-488449.netlify.app/)
 
 ### Built with
 
